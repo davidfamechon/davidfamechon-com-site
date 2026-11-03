@@ -5728,22 +5728,22 @@ body.mfp-enabled {
     html[lang="es-ES"] .logo_tagline {
 		letter-spacing: 1px !important;
         font-size: 18px !important;
-		margin-top: -28px !important;
-		margin-left: 27px !important;
+		margin-top: 6px !important;
+		margin-left: 0px !important;
     }
     /* Version FRANÇAISE ("atelier graphique") */
     html[lang="fr-FR"] .logo_tagline {
 		letter-spacing: 0.5px !important;
         font-size: 18px !important;
-		margin-top: -28px !important; 
-        margin-left: 45px !important; 
+		margin-top: 6px !important; 
+        margin-left: 0px !important; 
     }
 	/* Version ANGLAISE ("graphic studio") */
     html[lang="en"] .logo_tagline {
         letter-spacing: 1px !important;
 		font-size: 18px !important;
-		margin-top: -28px !important; 
-        margin-left: 35px !important;
+		margin-top: 6px !important; 
+        margin-left: 0px !important;
     }
 }
 /* ==========================================================================
