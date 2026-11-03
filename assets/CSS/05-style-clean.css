@@ -5722,7 +5722,7 @@ body.mfp-enabled {
 		letter-spacing: 1px !important;
         font-size: 18px !important;
 		margin-top: 6px !important; /* Ajuste la hauteur si besoin */
-		margin-left: 20px !important; /* Décale si tu ne veux plus que ce soit centré */
+		margin-left: 0px !important; /* Décale si tu ne veux plus que ce soit centré */
     }
 	/* Version ESPAGNOLE ("taller gráfico") */
     html[lang="es-ES"] .logo_tagline {
