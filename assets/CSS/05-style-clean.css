@@ -5721,7 +5721,7 @@ body.mfp-enabled {
     html[lang="ca-ES"] .logo_tagline {
 		letter-spacing: 1px !important;
         font-size: 18px !important;
-		margin-top: -28px !important; /* Ajuste la hauteur si besoin */
+		margin-top: 6px !important; /* Ajuste la hauteur si besoin */
 		margin-left: 20px !important; /* Décale si tu ne veux plus que ce soit centré */
     }
 	/* Version ESPAGNOLE ("taller gráfico") */
